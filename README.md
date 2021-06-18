@@ -1,2 +1,0 @@
-# Factoring
-This program factors
